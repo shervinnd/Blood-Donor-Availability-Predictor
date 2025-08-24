@@ -33,7 +33,7 @@ steps:
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/yourusername/blood-donor-predictor.git
+    git clone https://github.com/shervinnd/blood-donor-predictor.git
     cd blood-donor-predictor
     ```
 
