@@ -109,6 +109,6 @@ This project is licensed under the MIT License. See the
 ## 📧 Contact
 
 For questions or feedback, reach out via GitHub Issues or email at
-your.email@example.com.
+shervindanesh8282@gmail.com
 
 Happy coding and predicting! 🚀🩺
